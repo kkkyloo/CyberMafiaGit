@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREAL_ENGINE_PROJECTS/CyberMafia/Content/UI/icon.uasset",
+				"D:/UNREAL_ENGINE_PROJECTS/CyberMafia/Content/UI/icon__2_.uasset",
+				"D:/UNREAL_ENGINE_PROJECTS/CyberMafia/Content/Levels/L_Gamaplay.umap"
+			]
+		}
+	]
+}
