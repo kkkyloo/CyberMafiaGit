@@ -1,0 +1,774 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "5F0D5401DAB413B1A9470681084DA372F8D57BD0",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6712790228BB1D48A04BF7A9CACD241F8932C790",
+			"Assets": [
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_GlowSphere_01"
+			]
+		},
+		{
+			"ShaderMapHash": "07CE82033FA5A30954F7C6470168A08546D0C53D",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9650B103E0607F7F206B3B5687814252105D5450",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Ceiling/MI_Ceiling",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Ceiling/MI_Ceiling02",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Ceiling/MI_Ceiling03",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Floor/MI_Floor01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Floor/MI_Floor01A",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Floor/MI_Floor01B",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Floor/MI_Floor01C",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Floor/MI_Floor01D",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Floor/MI_FloorTile01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Floor/MI_FloorTile01A",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Concrete01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Metall03",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Metall04",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Wall01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Wall01A",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Wall01B",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Wall01C",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Wall01D",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Wall01E"
+			]
+		},
+		{
+			"ShaderMapHash": "A53F970BC4ADA80D3BCBB3E2E44FE938E8B23187",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "F3D533101A8FF41DDF62DE002BEA02EBDDA909B7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C7AD3A10C2FA5A36D663AF2BE3F4DD1A69C85BCE",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "260F2E15384611BB5CBB7870AC653E8F99C8033F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0FCBF216C4EFE2AB26F8ACF7A7C4B20EAA2B03C8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0972C1186AA9E9FA75D4CBB815A821436C5462A0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "7A575A191C8B93CD9D7AFEE75BEE75D490079FD2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BD13B91BC95180E0C77B4B9621BB9AA59A22926E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "CD313C213C65D09C4E96B8F50B6A244E206431BB",
+			"Assets": [
+				"/Game/Asstets/Polar/Materials/Architectural/M_Generator_Yellow_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "B87F9A279BBCAB6E1238E8B69C7B542F7B09208F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1DEF0F2817E211B9F1F4EB918FB36169E304EE9A",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/OfficeProps/MI_Paper"
+			]
+		},
+		{
+			"ShaderMapHash": "6961422BCDBFF71673B1261FB07C354C3A6F126E",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "8090BE2EFEF68C7062363899766A96FF59A8C6BA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "9300C12E525432EAA78A2F58838BE7715215F27F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "94E5C52E3D1904EC3C69A62929424687E57B9502",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A82E082F69A5542640AC49A12883B743B52BD1B7",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Decal/MI_FloorDecal01"
+			]
+		},
+		{
+			"ShaderMapHash": "1E8CB02F46430E465F354504D97F58A3687C9092",
+			"Assets": [
+				"/Game/Asstets/SpaceshipInterior/Materials/M_Scifi_Wall_04"
+			]
+		},
+		{
+			"ShaderMapHash": "22CE4934F9C69C6814E37E583AA528BAACAA8F41",
+			"Assets": [
+				"/Game/Asstets/MyMaterial/M_TimeStop"
+			]
+		},
+		{
+			"ShaderMapHash": "4B7C173731D913A0D689CBF8DF25F26520ED0DCA",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8498513735EA7D2713AE29DA29D4EF074B37C3D4",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B9B28539E66813326359A7DE5AC3534DE16CCA1F",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Decal/MI_BoardDecal01",
+				"/Game/Asstets/ScienceLab/Materials/Decal/MI_BoardDecal04"
+			]
+		},
+		{
+			"ShaderMapHash": "05A3D1393AE76F16F00C2777FC92286E0D946CDE",
+			"Assets": [
+				"/Game/Blueprints/WeaponSystem/Resources/Meshes/WeaponMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "96D1233A173D04FE5523071C7169F5A876D9BF1A",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Railing/MI_Railing",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Railing/MI_Railing2"
+			]
+		},
+		{
+			"ShaderMapHash": "B53C243B1DE7B8D1F634644F76B242AAE7CEB289",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "A576FC3B3810493E07172929C58C3968AB79347B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6100693C60FD6F4DD0D5A686903ED7F88887D231",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "2A5DC23C03008FD4C435FF14C643F1F2437A4EEB",
+			"Assets": [
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_AssaultRifle_MuzzleFlash_4x1",
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_Pistol_Streaks_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2A98A842A87AD929F905994CEC9711DCDB1AB302",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CD1C8E467B1BC5BF98C846C8146B6AFCB1FEADC8",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "DB349546638241735873F4F870BAB1E073B583C7",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "A09F8D47A651CB4C21051050AE1F2A80B693BE4D",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "99359349B8B7EB484F84F835CBEEC2E11CB48ABC",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer05",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ElectronMicroscope",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_Server"
+			]
+		},
+		{
+			"ShaderMapHash": "B87CDE4EE8337C617F72F2A094389B01D6ED5561",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C777F653F20CAD7334420B704D798B0377D3E63E",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/BaseMaterial/M_Decal2"
+			]
+		},
+		{
+			"ShaderMapHash": "4882D25E760CC9055D7C5E00C0025045F9D71C60",
+			"Assets": [
+				"/Game/Asstets/SpaceshipInterior/Materials/M_Scifi_Door_01"
+			]
+		},
+		{
+			"ShaderMapHash": "68AA2B6018C773D20822CD15FFD9ABB7C5317C29",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Glass02"
+			]
+		},
+		{
+			"ShaderMapHash": "21019E630B9676654A1299D2833E05173711037B",
+			"Assets": [
+				"/Game/Asstets/Exit/source/Materiais_002"
+			]
+		},
+		{
+			"ShaderMapHash": "ECFF4A65681F7AC72C2D0929E4048C16927A0015",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer06",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ControlPanel",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ControlPanel2",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_GasCylinder03"
+			]
+		},
+		{
+			"ShaderMapHash": "92E55766F029624F00F4542900BEAC18C0D3D724",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Furniture/MI_Sofa"
+			]
+		},
+		{
+			"ShaderMapHash": "824C046A860AA156FEE81E2CC9D98D9FA1913EDC",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "24600C722E6667CA54D968716B6CBC1671EC8CBE",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4E348573CDA56CF3420D78552D6B41D7AD682FFA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B8F4B5779FD61DE53D7B3204CF373AD832E7796A",
+			"Assets": [
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_Pistol_MuzzleFlash_4x1_A",
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_SparksImpact_2x2_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A0268979733AE60EA033D197C3FD106109B77061",
+			"Assets": [
+				"/Game/Asstets/Polar/Materials/Architectural/M_Generator_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "A1277A7BF8053F3D1267FFB036C9382B0079244D",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Lift/MI_Lift"
+			]
+		},
+		{
+			"ShaderMapHash": "025AEC7B8FBD9606215BACA9951F9FF50A49BC3D",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/BaseMaterial/M_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "D134607E21DCCF16B8C0BED9A94E437C30C04DDD",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E53CA37FC823505F1B40BF3B486ACDEDB226E909",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4BB037803EF426AAC09072FE9B352513DCE06914",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Furniture/MI_Furniture_Glass",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_Doors_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "3DE9FA808DF0D448782EE18306C6234A55DA2DBF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "065215810163D671C8F860CC87F436BC1F4F4086",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8BE3835580C08D4B8456C9845591660F15D5AC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4A679C86FC15B52AA62DF327BE66B9EDF7EA4A87",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "1E2DD288E1E1C1909BDA6BB2F56384CA52765A31",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "32C5A68A53CA99FD56F6D4A99FCBF3B90FDEA915",
+			"Assets": [
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_Ember_Speed_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C5F3698D8136C2864307345026555FB4628076B2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "3FCB3B8FF3BE1EE02C3E5E0CEAAE2144808D817E",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5504C4909461ACE93A818943467BDC08137D8272",
+			"Assets": [
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_Pistol_Smoke_2x2_A"
+			]
+		},
+		{
+			"ShaderMapHash": "8C2FDE9026342D1A583BFA6CD402154B00264FA4",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8436289332416CA87DBAB39F268FBFB83AACF3BC",
+			"Assets": [
+				"/Game/Blueprints/WeaponSystem/Resources/FX/Materials/M_Smoke_8x8_B_01"
+			]
+		},
+		{
+			"ShaderMapHash": "3F0507951FA6665FA38FA3D6238F363C8CCDFBAF",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "D605C79603AC9C8BD521348055E1BA43A7938BC1",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E2625897A7CE54FD8E0CFA4442A0634A273094BF",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer01",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer02",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer02A",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer03",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer04",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ChemicalContainer07",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_GasCylinder01",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_GasCylinder01A",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_ScientificDevice02",
+				"/Game/Asstets/ScienceLab/Materials/ScientificDevice/MI_WaterTank01"
+			]
+		},
+		{
+			"ShaderMapHash": "9322A198F438A33E16EF4056EDA9096394E7B31D",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "80794E9AB1EA5F29543F88BC7902F75209371AFD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6FFCD39CEB5FFF98C8FBE9992C75F62B4B2F2D6C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "86F9169D98C82D6D2D85DF914D9C8C622183CB09",
+			"Assets": [
+				"/Game/Animation/StockAnimation/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Animation/StockAnimation/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "A86C739EA825892E0C72734584D1EF4E97C6831D",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "9D12319FFA9153A843A0BB09300D6718D972A979",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BA8BAF9F9CFBD43B953073070043BECDF44E64B2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2080E69FC75EDE16411F6A1689326EDC72A4D7A9",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EF9053A02E31A588A3E57CA5ACF6A0736B1BA4A9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "93AF68A0C106B5BF7A9EEDD3280B5A26DC6EE16C",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "5B52DAA1F49AAF7C83579B06448BA4C948582135",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/Blueprint/MI_Wire",
+				"/Game/Asstets/ScienceLab/Materials/Furniture/MI_Furniture",
+				"/Game/Asstets/ScienceLab/Materials/Furniture/MI_FurnitureA",
+				"/Game/Asstets/ScienceLab/Materials/Furniture/MI_FurnitureB",
+				"/Game/Asstets/ScienceLab/Materials/Furniture/MI_Mat01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_Doors01A",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_Doors01B",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_Doors01C",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_LabDoors01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_LabDoors01A",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_LabDoors01C",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_LabDoors01D",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Doors/MI_LabDoors01E",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Stairs/MI_Stairs01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Ventilation/MI_Ventilation2"
+			]
+		},
+		{
+			"ShaderMapHash": "B9BF1FA8FBCA686095C7580677BC41AFA0CF89C1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "60FE22ACBF52F7323CFAFE658E9D2E576291FBD7",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/BaseMaterial/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "3C9AA2AF0D267B1A74C93C69AB60C7E04C50C157",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9561E0AF4C94CFAEC08E0F38A54A72B7612B0E01",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/BaseMaterial/M_base",
+				"/Game/Asstets/ScienceLab/Materials/Furniture/MI_PeriodicTable",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/MI_Lamp03B",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Ventilation/MI_Ventilation",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Border01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Border01B",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Border01C",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Border01D",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Metall01",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/Wall/MI_Metall02"
+			]
+		},
+		{
+			"ShaderMapHash": "A6FBF1AFDCE8F60B652CACFF9516CD3AC0B67409",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "39DFBEB01E02F0A86A0204CB5BA225EC6311A660",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E5BCC4B0B05FBC81F691A97D6D0845EBEE4D7C22",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5696BEB25BA6D2A9052798F86E40BBBC7EF64D78",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "28CC07B489803C5DD8A071ADB5225EDDFCC97EF4",
+			"Assets": [
+				"/Game/Asstets/Polar/Materials/Architectural/_M_Master_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "AB87EDB8AFCAC08B5CF8376253216FE4D19D0A40",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "823F09BD494D5141DF21C1CBA6AA6A5BDEA9F84B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E62C68BE3272C12ED20366D1CA81313DBA2BE9E6",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5DDA1DBF537181160CB403E6823D037291549C3B",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "903FA3C5A588FE37111D8A5EC1BA4F5CE1A211C1",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B5A3A6C5BA1AD3743B57C3C347FEF8580FEF94C1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "549651C6E68A1184ACC713D41422C765E95F1ACA",
+			"Assets": [
+				"/Game/Animation/StockAnimation/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Animation/StockAnimation/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "ECB07ACB93CFF5B1E216BE234BBCBFAB9096769C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A52CC1CBB58E911DDAA4F0D37658564D13617FFE",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9EFD65CCF48AC27178C65E64CE204C0CADEC7AAE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BBB962CE65945C92AD9A1D417631A961D5C479DB",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "DE29C5CFC2D941D94BC13920E84C9D2645F0AE61",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BFB0B0D126B4E2D5D2BF756F5AA392AAFF16D905",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "990AB9D9D31BE98AAE5BB17F3C926148D4E58856",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/OfficeProps/MI_Office_Monitor",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/MI_Lamp",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/MI_Lamp02",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/MI_Lamp03",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/MI_Lamp03C",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/MI_Lamp03E",
+				"/Game/Asstets/ScienceLab/Materials/Rooms/MI_LampA"
+			]
+		},
+		{
+			"ShaderMapHash": "351573DA5A2B02A772F37941B16B5BBF6C5FDFCC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "3A6B4FDD2B2969A5B47057A47F2427C17BA4D48D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "4D17FFDF9B362B96ECD96590C53639339D066D96",
+			"Assets": [
+				"/Game/Asstets/Polar/Materials/Architectural/_M_Master_Material_2Sided"
+			]
+		},
+		{
+			"ShaderMapHash": "65E82EE1C79BD9F02F162D143C598AD5B8CF49B9",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B56AF9E4F58F67050FEEA6B638F764A88704C5F9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "D5F1B1E51FDE70E00C53E4E29773FCB26ACB1A0E",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/BaseMaterial/M_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "0FAADAE86EFBBAB6D119D4D14D254A7233B62CDE",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FE2873EFD8C83EFDC183CD57D61554526663EBA5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "130630F1B88B2A326911ACF4EBB34A65FCDB475C",
+			"Assets": [
+				"/Game/Asstets/ScienceLab/Materials/OfficeProps/MI_BulletinBoard",
+				"/Game/Asstets/ScienceLab/Materials/OfficeProps/MI_Chair",
+				"/Game/Asstets/ScienceLab/Materials/OfficeProps/MI_MFP",
+				"/Game/Asstets/ScienceLab/Materials/OfficeProps/MI_Office"
+			]
+		},
+		{
+			"ShaderMapHash": "412FF6F7A3254D71E3126632C35C10DACC997630",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "7C933AF84CFC5CCED7D4E2C23E2700279738556D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "CA516EF81A5394A9288B15AFD7925D47471A3D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "45D1BCFAFDAF27C680E49F23D2C6DB6347C5524E",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F2EA0FB82701255DA83A3E731DD379B87A1443D",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E86CBFFBA0CE8CB92D166F4698ECC3674A6656F2",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		}
+	]
+}
